@@ -6,7 +6,7 @@ Static homepage and privacy policy for a personal Kopia/rclone Google Drive OAut
 
 Use a dedicated public repository named `PianoMastR64/personal-kopia-backups`. Publish only this directory's files, not the containing Computer Config workspace. In repository Settings → Pages, choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then Save.
 
-Expected URLs, pending actual deployment verification:
+Published URLs (homepage and privacy policy verified in Chrome on October 25, 2026):
 
 - Homepage: `https://pianomastr64.github.io/personal-kopia-backups/`
 - Privacy policy: `https://pianomastr64.github.io/personal-kopia-backups/privacy.html`
